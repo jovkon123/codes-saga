@@ -1,5 +1,5 @@
 {
-"CodeName1": {
+        "CodeName1": {
         "TimeExpired": {
             "year": 2025,
             "day": 20,
@@ -8,29 +8,33 @@
         "Rewards": {
             "Items": [
                 {
-                        "Name": "Spell",
-                        "Count": 10,
-                        "Name": "TraitReroll",
-                        "Count": 15
+                 "Name": "Spell",
+                "Count": 25,
+                },
+                {
+                "Name": "TraitReroll",
+                "Count": 15,
                 }
             ],
             "NumberValue": [
                 {
-                        "Name": "Gold",
-                        "Count": 1000,
+                "Name": "Gold",
+                "Count": 1000,
                 }
             ],
             "Units": [
                 {
-                        "Name": "Luffo",
-                        "Count": 1,
-                        "Name": "Doma",
-                        "Count": 1
+                "Name": "Luffo",
+                "Count": 1,
+                },
+                {
+                "Name": "Doma",
+                "Count": 1,
                 }
             ]
         }
     },
-"CodeName2": {
+        "CodeName2": {
         "TimeExpired": {
             "year": 2025,
             "day": 20,
@@ -39,26 +43,28 @@
         "Rewards": {
             "Items": [
                 {
-                        "Name": "SuperSpell",
-                        "Count": 15,
-                        "Name": "TraitReroll",
-                        "Count": 25
+                "Name": "TraitReroll",
+                "Count": 25,
                 }
             ],
             "NumberValue": [
                 {
-                        "Name": "Gold",
-                        "Count": 1000,
-                        "Name": "Gems",
-                        "Count": 2000,
+                "Name": "Gold",
+                "Count": 1000,
+                },
+                {
+                "Name": "Gems",
+                "Count": 2000,
                 }
             ],
             "Units": [
                 {
-                        "Name": "Ren",
-                        "Count": 1,
-                        "Name": "Okorun",
-                        "Count": 1
+                "Name": "Ren",
+                "Count": 1,
+                },
+                {
+                "Name": "Okorun",
+                "Count": 1,
                 }
             ]
         }
