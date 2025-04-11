@@ -1,26 +1,36 @@
 {
-    "CodeName": {
+    "SaaNub": {
         "TimeExpired": {
-            "year": 0,
-            "day": 0,
-            "month": 0
+            "year": 2025,
+            "day": 15,
+            "month": 04
         },
         "Rewards": {
             "Items": [
                 {
-                    "Name": "Test",
-                    "Count": 1
+                    "Name": "Spell",
+                    "Count": 100
                 }
             ],
             "NumberValue": [
                 {
-                    "Name": "Test",
-                    "Count": 1
+                    "Name": "Gold",
+                    "Count": 1000
+                },
+
+                {
+                    "Name": "Gems",
+                    "Count": 1000
                 }
             ],
             "Units": [
                 {
-                    "Name": "Test",
+                    "Name": "Luffo",
+                    "Count": 1
+                },
+
+                {
+                    "Name": "Ren",
                     "Count": 1
                 }
             ]
