@@ -9,27 +9,27 @@
             "Items": [
                 {
                  "Name": "Spell",
-                "Count": 25,
+                "Count": 25
                 },
                 {
                 "Name": "TraitReroll",
-                "Count": 15,
+                "Count": 15
                 }
             ],
             "NumberValue": [
                 {
                 "Name": "Gold",
-                "Count": 1000,
+                "Count": 1000
                 }
             ],
             "Units": [
                 {
                 "Name": "Luffo",
-                "Count": 1,
+                "Count": 1
                 },
                 {
                 "Name": "Doma",
-                "Count": 1,
+                "Count": 1
                 }
             ]
         }
@@ -44,27 +44,27 @@
             "Items": [
                 {
                 "Name": "TraitReroll",
-                "Count": 25,
+                "Count": 25
                 }
             ],
             "NumberValue": [
                 {
                 "Name": "Gold",
-                "Count": 1000,
+                "Count": 1000
                 },
                 {
                 "Name": "Gems",
-                "Count": 2000,
+                "Count": 2000
                 }
             ],
             "Units": [
                 {
                 "Name": "Ren",
-                "Count": 1,
+                "Count": 1
                 },
                 {
                 "Name": "Okorun",
-                "Count": 1,
+                "Count": 1
                 }
             ]
         }
