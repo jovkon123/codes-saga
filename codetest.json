@@ -70,5 +70,29 @@
                 }
             ]
         }
-    }
+    },
+       "CodeName": {
+        "TimeExpired": {
+            "year": 0,
+            "day": 0,
+            "month": 0
+        },
+        "Rewards": {
+            "Items": [
+                {
+                
+                }
+            ],
+            "NumberValue": [
+                {
+                
+                }
+            ],
+            "Units": [
+                {
+                
+                }
+            ]
+        }
+    } 
 }
