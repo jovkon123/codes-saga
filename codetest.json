@@ -1,5 +1,5 @@
 {
-"SaaNub": {
+"CodeName": {
         "TimeExpired": {
             "year": 0,
             "day": 0,
@@ -8,27 +8,22 @@
         "Rewards": {
             "Items": [
                 {
-                        "Name": "Spell",
-                        "Count": 10,
-                        "Name": "TraitReroll",
-                        "Count": 15
+                
                 }
             ],
             "NumberValue": [
                 {
-                        "Name": "Gold",
-                        "Count": 1000,
+                
                 }
             ],
             "Units": [
                 {
-                        "Name": "Luffo",
-                        "Count": 1,
-                        "Name": "Doma",
-                        "Count": 1
+                
                 }
-            ]}},
-"NhatBuLon": {
+            ]
+        }
+    },
+        "CodeName": {
         "TimeExpired": {
             "year": 0,
             "day": 0,
@@ -37,26 +32,43 @@
         "Rewards": {
             "Items": [
                 {
-                        "Name": "SuperSpell",
-                        "Count": 15,
-                        "Name": "TraitReroll",
-                        "Count": 25
+                
                 }
             ],
             "NumberValue": [
                 {
-                        "Name": "Gold",
-                        "Count": 1000,
-                        "Name": "Gems",
-                        "Count": 2000,
+                
                 }
             ],
             "Units": [
                 {
-                        "Name": "Ren",
-                        "Count": 1,
-                        "Name": "Okorun",
-                        "Count": 1
+                
                 }
-            ]}}
+            ]
+        }
+    },
+        "CodeName": {
+        "TimeExpired": {
+            "year": 0,
+            "day": 0,
+            "month": 0
+        },
+        "Rewards": {
+            "Items": [
+                {
+                
+                }
+            ],
+            "NumberValue": [
+                {
+                
+                }
+            ],
+            "Units": [
+                {
+                
+                }
+            ]
+        }
+    }
 }
