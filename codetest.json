@@ -1,5 +1,10 @@
 {
         "CodeName1": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 4
+        },
         "TimeExpired": {
             "year": 2025,
             "day": 20,
@@ -12,6 +17,11 @@
         }
     },
         "CodeName2": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 4
+        },
         "TimeExpired": {
             "year": 2025,
             "day": 20,
