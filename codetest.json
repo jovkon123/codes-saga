@@ -11,15 +11,9 @@
             "month": 4
         },
         "Rewards": {
-            "Items": {
-                "Spell": 15,
-                "TraitReroll": 25
-            },
             "NumberValue": {
-                "Gold": 1000
-            },
-            "Units": {
-                "Luffo": 1
+                "Gold": 1000,
+                "Gems": 2000
             }
         }
     },
@@ -37,14 +31,48 @@
         "Rewards": {
             "Items": {
                 "TraitReroll": 50
+            }
+        }
+    },
+    "CodeName3": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 20,
+            "month": 4
+        },
+        "Rewards": {
+            "Units": {
+                "Luffo": 1
+            }
+        }
+    },
+    "CodeName4": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 20,
+            "month": 4
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50
             },
             "NumberValue": {
-                "Gold": 1000,
-                "Gems": 2000
+                "Gold": 3000,
+                "Gems": 5000
             },
             "Units": {
-                "Doma": 1,
-                "Okorun": 1
+                "Ren": 2,
+                "Okorun": 2
             }
         }
     }
