@@ -1,5 +1,5 @@
 {
-        "CodeName1": {
+    "CodeName1": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -11,12 +11,19 @@
             "month": 4
         },
         "Rewards": {
-            "Items":{"Spell":15, "TraitReroll":25},
-            "NumberValue":{"Gold":1000},
-            "Units":{"Luffo":1}
+            "Items": {
+                "Spell": 15,
+                "TraitReroll": 25
+            },
+            "NumberValue": {
+                "Gold": 1000
+            },
+            "Units": {
+                "Luffo": 1
+            }
         }
     },
-        "CodeName2": {
+    "CodeName2": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -28,9 +35,17 @@
             "month": 4
         },
         "Rewards": {
-            "Items":{"TraitReroll":50},
-            "NumberValue":{"Gold":1000, "Gems":2000},
-            "Units":{"Doma":1, "Okorun":1}
+            "Items": {
+                "TraitReroll": 50
+            },
+            "NumberValue": {
+                "Gold": 1000,
+                "Gems": 2000
+            },
+            "Units": {
+                "Doma": 1,
+                "Okorun": 1
+            }
         }
     }
 }
