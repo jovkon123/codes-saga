@@ -1,78 +1,19 @@
 {
-    "CodeName1": {
+    "Release": {
         "TimeRelease": {
             "year": 2025,
-            "day": 10,
+            "day": 30,
             "month": 4
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 20,
-            "month": 4
+            "day": 31,
+            "month": 5
         },
         "Rewards": {
             "NumberValue": {
-                "Gold": 1000,
-                "Gems": 2000
-            }
-        }
-    },
-    "CodeName2": {
-        "TimeRelease": {
-            "year": 2025,
-            "day": 10,
-            "month": 4
-        },
-        "TimeExpired": {
-            "year": 2025,
-            "day": 20,
-            "month": 4
-        },
-        "Rewards": {
-            "Items": {
-                "TraitReroll": 50
-            }
-        }
-    },
-    "CodeName3": {
-        "TimeRelease": {
-            "year": 2025,
-            "day": 10,
-            "month": 4
-        },
-        "TimeExpired": {
-            "year": 2025,
-            "day": 20,
-            "month": 4
-        },
-        "Rewards": {
-            "Units": {
-                "Luffo": 1
-            }
-        }
-    },
-    "CodeName4": {
-        "TimeRelease": {
-            "year": 2025,
-            "day": 10,
-            "month": 4
-        },
-        "TimeExpired": {
-            "year": 2025,
-            "day": 20,
-            "month": 4
-        },
-        "Rewards": {
-            "Items": {
-                "TraitReroll": 50
-            },
-            "NumberValue": {
-                "Gold": 3000,
-                "Gems": 5000
-            },
-            "Units": {
-                "Ren": 2,
-                "Okorun": 2
+                "Gems": 500,
+                "Gold": 2000
             }
         }
     }
