@@ -16,5 +16,29 @@
                 "Gold": 2000
             }
         }
+    },
+
+    "ReleaseTest": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 30,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 2000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "SuperSpell": 15,
+                "Spell": 10
+            }
+        }
     }
 }
