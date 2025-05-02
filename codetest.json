@@ -40,5 +40,24 @@
                 "Spell": 10
             }
         }
+    },
+
+    "TestGem": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 30,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000,
+                "Gold": 10000
+            }
+        }
     }
 }
