@@ -83,5 +83,29 @@
                 "Spell": 50
             }
         }
+    },
+
+    "TestGem2": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 30,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 10000,
+                "Gold": 40000
+            },
+            "Items": {
+                "TraitReroll": 15,
+                "SuperSpell": 40,
+                "Spell": 20
+            }
+        }
     }
 }
