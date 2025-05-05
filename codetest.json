@@ -125,5 +125,23 @@
                 "Gold": 100000
             }
         }
+    },
+    
+    "TestGold2": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 30,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 50000
+            }
+        }
     }
 }
