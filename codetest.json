@@ -12,26 +12,29 @@
         },
         "Rewards": {
             "NumberValue": {
-                "Gems": 500,
-                "Gold": 2000
+                "Gems": 1000,
+                "Gold": 3500
             }
         }
     },
-    "EA1": {
+    "SorryForDelay": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
-            "month": 4
+            "month": 5
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 30,
+            "day": 18,
             "month": 5
         },
         "Rewards": {
             "NumberValue": {
-                "Gold": 7000,
-                "Gems": 500
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "Spell": 10
             }
         }
     }
