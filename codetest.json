@@ -1,5 +1,5 @@
 {
-    "dfmdgmdfg": {
+    "Release": {
         "TimeRelease": {
             "year": 2025,
             "day": 30,
@@ -17,7 +17,7 @@
             }
         }
     },
-    "fgnfhfmg": {
+    "SorryForDelay": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -35,6 +35,23 @@
             "Items": {
                 "TraitReroll": 10,
                 "Spell": 10
+            }
+        }
+    },
+        "SorryForShutdown": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500
             }
         }
     }
