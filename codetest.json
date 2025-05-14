@@ -1,5 +1,5 @@
 {
-    "Release": {
+    "": {
         "TimeRelease": {
             "year": 2025,
             "day": 30,
@@ -17,7 +17,7 @@
             }
         }
     },
-    "SorryForDelay": {
+    "": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
