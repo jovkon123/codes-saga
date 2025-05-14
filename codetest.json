@@ -30,8 +30,8 @@
         },
         "Rewards": {
             "NumberValue": {
-                "Gold": 500,
-                "Gems": 7000
+                "Gold": 7000,
+                "Gems": 500
             }
         }
     }
