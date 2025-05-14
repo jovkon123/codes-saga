@@ -17,23 +17,22 @@
             }
         }
     },
-
     "EA1": {
         "TimeRelease": {
             "year": 2025,
-            "day": 30,
+            "day": 10,
             "month": 4
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 31,
-            "month": 5
+            "day": 20,
+            "month": 4
         },
         "Rewards": {
             "NumberValue": {
-                "Gems": 500,
-                "Gold": 7000
-
+                "Gold": 500,
+                "Gems": 7000
+            }
         }
     }
 }
