@@ -80,7 +80,7 @@
             }
         }
     },
-        "BugSaga": {
+    "BugSaga": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -98,6 +98,28 @@
             },
             "Items": {
                 "TraitReroll": 5
+            }
+        }
+    },
+    "InBugSagaWeTrust": {
+        "LevelRequired": 20,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 4000
+            },
+            "Items": {
+                "TraitReroll": 20
             }
         }
     }
