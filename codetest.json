@@ -25,7 +25,7 @@
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 15,
+            "day": 18,
             "month": 5
         },
         "Rewards": {
@@ -74,6 +74,27 @@
             "NumberValue": {
                 "Gems": 800,
                 "Gold": 5500
+            },
+            "Items": {
+                "TraitReroll": 5
+            }
+        }
+    },
+        "BugSaga": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 3500
             },
             "Items": {
                 "TraitReroll": 5
