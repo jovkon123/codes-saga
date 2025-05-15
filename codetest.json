@@ -102,7 +102,7 @@
         }
     },
     "InBugSagaWeTrust": {
-        "LevelRequired": 20,
+        "LevelRequired": 10,
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -110,7 +110,7 @@
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 23,
+            "day": 18,
             "month": 5
         },
         "Rewards": {
