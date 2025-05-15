@@ -38,7 +38,7 @@
             }
         }
     },
-        "SorryForShutdown": {
+    "50KActive": {
         "TimeRelease": {
             "year": 2025,
             "day": 10,
@@ -51,7 +51,32 @@
         },
         "Rewards": {
             "NumberValue": {
-                "Gems": 500
+                "Gems": 800,
+                "Gold": 3500
+            },
+            "Items": {
+                "TraitReroll": 2
+            }
+        }
+    },
+    "1MVisits": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 800,
+                "Gold": 5500
+            },
+            "Items": {
+                "TraitReroll": 5
             }
         }
     }
