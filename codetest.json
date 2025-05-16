@@ -122,5 +122,49 @@
                 "TraitReroll": 20
             }
         }
+    },
+    "10MVisits": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 2500
+            },
+            "Items": {
+                "TraitReroll": 3
+            }
+        }
+    },
+    "200kMembers": {
+        "LevelRequired": 5,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 19,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 2500
+            },
+            "Items": {
+                "TraitReroll": 2
+            }
+        }
     }
 }
