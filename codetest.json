@@ -181,8 +181,8 @@
 		},
 		"Rewards": {
 			"NumberValue": {
-				"Gems": 500,
-				"Gold": 2500
+				"Gems": 1000,
+				"Gold": 3000
 			},
 			"Items": {
 				"TraitReroll": 10,
