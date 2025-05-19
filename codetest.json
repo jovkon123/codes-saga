@@ -190,5 +190,49 @@
 				"SuperSpell": 5
 			}
 		}
+	},
+    "100KFavorites": {
+		"LevelRequired": 10,
+		"TimeRelease": {
+			"year": 2025,
+			"day": 10,
+			"month": 5
+		},
+		"TimeExpired": {
+			"year": 2025,
+			"day": 22,
+			"month": 5
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 500,
+				"Gold": 2500
+			},
+			"Items": {
+				"TraitReroll": 3
+			}
+		}
+	},
+        "300KLike": {
+		"LevelRequired": 10,
+		"TimeRelease": {
+			"year": 2025,
+			"day": 10,
+			"month": 5
+		},
+		"TimeExpired": {
+			"year": 2025,
+			"day": 22,
+			"month": 5
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 500,
+				"Gold": 3000
+			},
+			"Items": {
+				"TraitReroll": 3
+			}
+		}
 	}
 }
