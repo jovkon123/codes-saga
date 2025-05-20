@@ -234,5 +234,27 @@
 				"TraitReroll": 3
 			}
 		}
+	},
+	    "BossHidden": {
+		"LevelRequired": 10,
+		"TimeRelease": {
+			"year": 2025,
+			"day": 10,
+			"month": 5
+		},
+		"TimeExpired": {
+			"year": 2025,
+			"day": 22,
+			"month": 5
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 500,
+				"Gold": 3500
+			},
+			"Items": {
+				"TraitReroll": 10
+			}
+		}
 	}
 }
