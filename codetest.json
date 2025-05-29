@@ -256,5 +256,29 @@
 				"TraitReroll": 10
 			}
 		}
+	},
+	    "50MVisit": {
+		"LevelRequired": 10,
+		"TimeRelease": {
+			"year": 2025,
+			"day": 28,
+			"month": 5
+		},
+		"TimeExpired": {
+			"year": 2025,
+			"day": 1,
+			"month": 6
+		},
+		"Rewards": {
+			"NumberValue": {
+				"Gems": 1000,
+				"Gold": 5000
+			},
+			"Items": {
+				"TraitReroll": 10,
+				"SuperSpell": 5,
+				"Spell": 5
+			}
+		}
 	}
 }
