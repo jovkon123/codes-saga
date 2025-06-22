@@ -358,16 +358,18 @@
             "month": 6
         },
         "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 2500
+            },
             "Items": {
-                "TraitReroll": 50,
-                "SuperSpell": 10,
-                "Spell": 25,
-                "PetEgg": 1
+                "TraitReroll": 15,
+                "Spell": 10
             }
         }
     },
-    "AnimeSagaIsBack": {
-        "LevelRequired": 10,
+    "BossStudiosQOL": {
+        "LevelRequired": 0,
         "TimeRelease": {
             "year": 2025,
             "day": 21,
@@ -379,11 +381,63 @@
             "month": 6
         },
         "Rewards": {
+            "NumberValue": {
+                "Gems": 2000,
+                "Gold": 2500
+            },
             "Items": {
-                "TraitReroll": 50,
-                "SuperSpell": 10,
+                "TraitReroll": 10,
+                "PetEgg": 2
+            }
+        }
+    },
+    "WeeklyUPD!": {
+        "LevelRequired": 0,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 21,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 5000
+            },
+            "Items": {
+                "TraitReroll": 15,
+                "PetEgg": 1,
+                "Spell": 10,
+                "SuperSpell": 10
+            }
+        }
+    },
+    "AnimeSagaIsBack!": {
+        "LevelRequired": 0,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 21,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000,
+                "Gold": 10000
+            },
+            "Items": {
+                "TraitReroll": 35,
+                "SuperSpell": 25,
                 "Spell": 25,
-                "PetEgg": 1
+                "PetEgg": 4
             }
         }
     }
