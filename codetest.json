@@ -440,5 +440,30 @@
                 "PetEgg": 4
             }
         }
+    },
+        "SuperSecretJovTest!": {
+        "LevelRequired": 0,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 21,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000,
+                "Gold": 10000
+            },
+            "Items": {
+                "TraitReroll": 35,
+                "SuperSpell": 25,
+                "Spell": 25,
+                "PetEgg": 4
+            }
+        }
     }
 }
