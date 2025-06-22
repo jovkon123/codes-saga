@@ -344,5 +344,47 @@
                 "PetEgg": 1
             }
         }
+    },
+    "BossStudiosSaga": {
+        "LevelRequired": 3,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 21,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 6
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "SuperSpell": 10,
+                "Spell": 25,
+                "PetEgg": 1
+            }
+        }
+    },
+    "AnimeSagaIsBack": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 21,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 6
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "SuperSpell": 10,
+                "Spell": 25,
+                "PetEgg": 1
+            }
+        }
     }
 }
